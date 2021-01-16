@@ -12,8 +12,8 @@ function render() {
         content.append(header);
         header.append(h1);
         header.append(h2);
-        h1.innerText = "Welcome to Italian Iain's Pizza Parlour!";
-        h2.innerText = "We make the finest craft pizzas, specifically to your taste!"
+        h1.innerText = "Welcome to Iain's Pizza Parlour!";
+        h2.innerText = "We make the finest craft pizzas, specifically to your taste."
     })();
 
     (function addTabs() {

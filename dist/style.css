@@ -109,3 +109,12 @@ header h2 {
     margin: 0 auto;
     cursor: default;
 }
+
+.watermark {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1%;
+    height: 100px;
+}
