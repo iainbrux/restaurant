@@ -40,7 +40,7 @@ function render() {
 
         img.src = 'imgs/pizza.jpg';
         container.append(img);
-
+        
     })();
 
 }
